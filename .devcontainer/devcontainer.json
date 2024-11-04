@@ -1,0 +1,9 @@
+{
+  "name": "AI Chatbot",
+  "image": "tensorflow/tensorflow:2.13.0",
+  "workspaceFolder": "/workspace",
+  "extensions": [
+    "ms-python.python"
+  ],
+  "postCreateCommand": "pip install numpy nltk flask"
+}
