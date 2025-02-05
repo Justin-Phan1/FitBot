@@ -3,7 +3,7 @@ import json
 import torch 
 import os 
 import sys
-from model import NeuralNetwork
+from backend.model import NeuralNetwork
 from nltk_utils import bag_of_words, tokenize
 
 # Use for issues regarding importing modules
@@ -12,7 +12,7 @@ sys.path.append(file_dir)
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-with open('intents.json', 'r') as f:
+with open('backend/intents.json', 'r') as f:
     intents = json.load(f)
 
 # Load training data file 
