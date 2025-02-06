@@ -1,6 +1,6 @@
 # FitBot
 This project is essentially a "chatbot" that provides users with information regarding to fitness. Unfortunately due to subscriptions and poor support for deploying 
-Flask projects on hosting services, I was unable to successfully host my project on the web. 
+Flask projects on hosting services, I was unable to host my project on the web. 
 
 ## Project Description 
 This project is a deep learning model created using PyTorch in Python. It also utilizes the NLTK (Natural Language Toolkit) and NumPy libraries in Python. The project's frontend is 
