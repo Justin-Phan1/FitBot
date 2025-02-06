@@ -11,7 +11,7 @@ created with React.js and Flask in order to allow users to interact with an inte
 1. Open a terminal 
 2. Run the command ``` git clone https://github.com/Justin-Phan1/FitBot```
 3. Navigate to the project folder
-4. Run the ```train.py``` script to train the model. *Note. You should see a "data.pth" file pop up in the project*
+4. Run the ```train.py``` script to train the model. ** *Note. You should see a "data.pth" file pop up in the project* **
 5. In the project's root folder run ```python -m backend.server``` to start the Flask server
 6. Navigate to the frontend folder using ```cd frontend```
 7. Install dependencies using ```npm install```
