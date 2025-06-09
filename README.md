@@ -1,5 +1,5 @@
 # FitBot
-This project is essentially a "chatbot" that provides users with information regarding to fitness. Unfortunately due to paywalls and poor support for deploying 
+This project serves as a "chatbot" that provides users with information regarding to fitness. Unfortunately due to paywalls and poor support for deploying 
 Flask projects on hosting services, I was unable to host my project on the web. 
 
 ## Project Description 
